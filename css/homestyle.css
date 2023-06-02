@@ -1,0 +1,25 @@
+
+body {
+    background-image: url(home.png);
+    background-size: 100%;
+    min-height: 1000px;
+   
+    
+}
+
+.head_social{
+    background-image: url(home2.png);
+    background-size: 100%;
+    min-height: 1000px;
+    
+
+}
+
+.layer {
+    background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

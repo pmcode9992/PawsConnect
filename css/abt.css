@@ -1,0 +1,80 @@
+.about-us {
+  color: #0f1935;
+  flex-shrink: 0;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  margin: 3rem 0rem 3.8rem 0rem;
+  white-space: nowrap;
+  text-align:center;
+}
+
+.para1 {
+  color: #03352b;
+  flex-shrink: 0;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7039999962;
+  margin: 0rem 2.15rem 6.2rem 2.15rem;
+  max-width: 128rem;
+  text-align: center;
+}
+
+.our-service {
+  color: #062d3e;
+  flex-shrink: 0;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  letter-spacing: 0.144rem;
+  line-height: 1.5833333333;
+  margin-right: 104.55rem;
+  padding-left: 5rem;
+  white-space: nowrap;
+}
+
+.serimg {
+  width: 100%;
+  height: auto;
+}
+
+.buttons {
+  margin: -5%;
+  text-align: center;
+}
+
+.btn-hover {
+  width: 200px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  padding-top: -3rem;
+  border-radius: 50px;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+  background-position: 100% 0;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+  outline: none;
+}
+
+.btn-hover.color-1 {
+  background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
